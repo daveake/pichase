@@ -119,5 +119,6 @@ t.start()
 
 # Just stay running
 while True:
-	pass
+	time.sleep(1)
+	
 
